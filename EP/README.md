@@ -1,5 +1,5 @@
 # Epreuve pratique
-### Compétences évaluées
+### [Compétences évaluées](CompétencesEpreuvePratique.pdf)
 ## Sujets d'entraînement
 * [sujet1](Sujet1)
 * [sujet2](Sujet2)
