@@ -4,5 +4,5 @@
 - [métropole jour 1](25_nsij1me1.pdf)
 - [septembre jour 2](25-nsij2me3.pdf)
 ### 2026
-- [Amérique du Nord jour 1](26-nsij1an1.pdf)
+- [Amérique du Nord jour 1](26-nsij2an1.pdf)
 - [Amérique du Nord jour 2](26-nsij2an1.pdf)
