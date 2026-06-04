@@ -1,5 +1,11 @@
 # tnsi
 Depôt de NSI : terminale
+
+
+### Nuit du code
+* [documentation-pyxel.pdf](documentation-pyxel.pdf)
+* [regles-et-conseils-python.pdf](regles-et-conseils-python.pdf)
+
 ## Programmation et Algorithmique
 * [**Récursivité**](./01)
 * [**Programmation Objet**](03)
